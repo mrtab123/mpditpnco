@@ -9,8 +9,8 @@
                   <a href="/" class="center text-xs font-bold uppercase text-white ml-1 hover:bg-red-600 py-4 " >Home</a>
                   <a href="/full-calendar" class="ml-3 text-xs font-bold uppercase text-white hover:bg-red-600 py-4">Conference Schedule</a>
                   <a href="/" class="ml-3 text-xs font-bold uppercase text-white hover:bg-red-600 py-4">KEY OFFICERS</a>
-               
-              
+                  <a href="/" class="ml-3 text-xs font-bold uppercase text-white hover:bg-red-600 py-4">About Us</a>
+                             
             </div>
 
             
