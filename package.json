@@ -7,6 +7,14 @@
     "devDependencies": {
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.2",
+        "netlify-cli": "^14.2.0",
         "vite": "^4.0.0"
     }
+
+
+    {
+        "scripts": {
+          "deploy": "netlify deploy --prod"
+        },
+      }
 }

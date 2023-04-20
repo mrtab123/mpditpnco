@@ -1,0 +1,5 @@
+[build]
+  publish = "dist"
+
+  NETLIFY_SITE_ID=xxx
+NETLIFY_AUTH_TOKEN=xxx
