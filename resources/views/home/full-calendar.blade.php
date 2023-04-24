@@ -2,8 +2,6 @@
 <meta name="csrf-token" content="{{ csrf_token() }}" />
   
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
- 
  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.css" />
@@ -14,7 +12,7 @@
     <x-layout>
 
 
-<div class="container">
+<div class="">
 
 <div class="row">
     <div class="col-md-11">

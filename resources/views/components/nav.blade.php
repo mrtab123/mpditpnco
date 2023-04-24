@@ -49,6 +49,10 @@
   color: black;
 } */
 
+.higlight:hover{
+  background-color: #e9ecef;
+}
+
 .dropdown-item:hover  {
   background-color: lightblue;
   color: black;
