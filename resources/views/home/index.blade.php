@@ -1,7 +1,7 @@
 <x-layout>
 
     <div class="card text-center  mb-4 mt-4 container bg-primary">
-        <h1 hr style=" border-bottom: 5px solid red; color:white;"> <strong> Welcome to Manila Police District - Home of The Manila's Finest </strong></h1>
+        <h1 hr style=" border-bottom: 5px solid red; color:white;"> <strong> Welcome to Manila Police District - Home Of The Manila's Finest </strong></h1>
     </div>
 
     <div class="card mb-4 mt-4 higlight container" style=" padding:10px;" >
