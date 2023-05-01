@@ -12,11 +12,11 @@
             >
             </div>
 
-            <div class="col-md-8" style="" >
+            <div class="col-md-8">
             <img src="/images/star.png" alt=""  style="width: 50px; margin-left: 120px;">
-                <div class="card-body">
+                <div class="card-body" >
                 
-                    <h4 class="card-title"   style=" border-bottom: 5px solid red;">PBGEN ANDRE P DIZON</h4>
+                    <h4 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">PBGEN ANDRE P DIZON</h4>
                     <p class="card-text">District Director, Manila Police District </p>
                    
                 </div>
@@ -39,10 +39,10 @@
                         >
                         </div>
 
-                        <div class="col-md-8"  >
+                        <div class="col-md-8" >
 
-                            <div class="card-body">
-                                <h5 class="card-title"   style=" border-bottom: 5px solid red;">PCOL RAUL M TACACA</h5>
+                            <div class="card-body" >
+                                <h5 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">PCOL RAUL M TACACA</h5>
                                 <p class="card-text">Deputy District Director for Administration, MPD
                                 </p></div>
                         </div>
@@ -53,27 +53,31 @@
 
 
 
-            <div class="col-4"> 
-                <div class="card higlight" >
+            <div class="col-4">
+                <div class="card higlight ">
                     <div class="row" >
                         <div class="col-md-4 " >
                         <img src="/images/blank.png" class="img-fluid rounded"
                         >
                         </div>
 
-                        <div class="col-md-8" style=" padding:0px;" >
-
-                            <div class="card-body">
-                                <h5 class="card-title"   style=" border-bottom: 5px solid red;">PCOL RODERICO A ROY JR</h5>
-                                <p class="card-text">Deputy District Director For Operation, MPD </p></div>
+                        <div class="col-md-8">
+                            <div class="card-body" >
+                                <h5 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
+                                PCOL RODERICO A ROY JR
+                                </h5>
+                                <p class="card-text">Deputy District Director For Operation, MPD 
+                                </p> </div>
                         </div>
 
                     </div>
                 </div>
             </div>
 
+            
+            
+            
             <div class="col-4">
-
                 <div class="card higlight ">
                     <div class="row" >
                         <div class="col-md-4 " >
@@ -81,10 +85,10 @@
                         >
                         </div>
 
-                        <div class="col-md-8" style=" padding:0px;" >
+                        <div class="col-md-8"  >
 
-                            <div class="card-body">
-                                <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                            <div class="card-body" >
+                                <h5 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                                     PCOL JULIUS CECIL S ORDOÑO
                                 </h5>
                                 <p class="card-text">Chief District Directorial Staff, MPD 
@@ -118,22 +122,22 @@
         <div class="card mt-3 higlight ">
             <div class="row" >
                 <div class="col-md-4 " >
-                <img src="/images/D-STAFF/D1.png" class="img-fluid rounded"
-                >
+                    <img src="/images/D-STAFF/D1.png" class="img-fluid rounded"
+                    >
                 </div>
 
-                <div class="col-md-8" style=" padding:0px;" >
+                    <div class="col-md-8">
 
-                    <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
-                        PLTCOL PAUL JADY D DOLES
-                        </h5>
-                        <p class="card-text">
-                            OIC, DPRMD, MPD 
-                        </p>
+                        <div class="card-body"  >
+                            <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
+                            PLTCOL PAUL JADY D DOLES
+                            </h6>
+                            <p class="card-text">
+                                OIC, DPRMD, MPD 
+                            </p>
 
+                        </div>
                     </div>
-                </div>
 
             </div>
         </div>
@@ -152,12 +156,12 @@
                 >
                 </div>
 
-                <div class="col-md-8" style=" padding:0px;" >
+                <div class="col-md-8"  >
 
-                    <div class="card-body">
-                        <h5 class="card-title"  style=" border-bottom: 5px solid red;">
+                    <div class="card-body" >
+                        <h6 class="card-title fw-bold"  style=" border-bottom: 5px solid red;">
                         PCOL SAMUEL B PABONITA
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         Chief, DID, MPD 
                         </p>
@@ -183,9 +187,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PCOL EDWARD D QUIJANO
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         Chief, DOD, MPD 
                         </p>
@@ -212,9 +216,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PCOL IGMEDIO B BERNALDEZ
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         Chief, DLD, MPD 
                         </p>
@@ -240,9 +244,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PLTCOL BOGARD B ARAO
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         OIC, DCADD, MPD 
                         </p>
@@ -269,9 +273,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PLTCOL NERWIN M RICOHERMOSO
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         AC, DCD, MPD 
                         </p>
@@ -298,9 +302,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PLTCOL ORLANDO A MIRANDO JR
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         OIC, DIDMD, MPD 
                         </p>
@@ -327,9 +331,9 @@
                 <div class="col-md-8" style=" padding:0px;" >
 
                     <div class="card-body">
-                        <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                        <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                         PLTCOL FLORIAN D REYNADO
-                        </h5>
+                        </h6>
                         <p class="card-text">
                         OIC, DPSMP, MPD 
                         </p>
@@ -342,7 +346,7 @@
 
     </div>
 
-
+                            <div class="col-3"></div>
 
     <div class="col-3">
 
@@ -356,9 +360,9 @@
         <div class="col-md-8" style=" padding:0px;" >
 
             <div class="card-body">
-                <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                 PCOL JULIUS C ANOÑUEVO
-                </h5>
+                </h6>
                 <p class="card-text">
                 FC, DMFB, MPD 
                 </p>
@@ -385,11 +389,11 @@
         <div class="col-md-8" style=" padding:0px;" >
 
             <div class="card-body">
-                <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
                 PLTCOL DAMASO J BURGOS JR
-                </h5>
+                </h6>
                 <p class="card-text">
-                SDS, MPD 
+                SDs, MPD 
                 </p>
 
             </div>
@@ -400,6 +404,8 @@
 
 </div>
 
+
+                <div class="col-3"></div>
 
 
     </div>

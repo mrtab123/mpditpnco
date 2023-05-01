@@ -18,7 +18,7 @@
     <div class="col-md-11">
         <div class="panel panel-default " style="padding: 8px;  margin-top: 2px; margin-left: 120px;">
             <div class="panel-heading text-center bg-primary" style="color: white; margin-top:5px; padding: 10px;">
-                <h2 style="border-bottom: 5px solid red;"><strong>Manila Police District Conference/Events Schedule</strong></h2>
+                <h2 style="border-bottom: 5px solid red;"><strong>Manila Police District Conference Schedule</strong></h2>
             </div>
 
             <div class="panel-body">
