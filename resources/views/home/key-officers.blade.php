@@ -15,7 +15,7 @@
             <div class="col-md-8" style=" padding-top:50px;" >
 
                 <div class="card-body">
-                    <h5 class="card-title"   style=" border-bottom: 5px solid red;">PBGEN ANDRE P DIZON</h5>
+                    <h4 class="card-title"   style=" border-bottom: 5px solid red;">PBGEN ANDRE P DIZON</h4>
                     <p class="card-text">District Director, Manila Police District </p></div>
             </div>
 
@@ -27,7 +27,7 @@
     
         <div class="row">
 
-            <div class="col-4" > 
+            <div class="col-4 ps-4" > 
     
                 <div class="card higlight" sytle="">
                     <div class="row" style="">
@@ -69,7 +69,7 @@
                 </div>
             </div>
 
-            <div class="col-4">
+            <div class="col-4 pe-4">
 
                 <div class="card higlight ">
                     <div class="row" >
@@ -108,7 +108,7 @@
   
   
     <div class="">       
-    <div class="row mb-5">
+    <div class="row mb-5 mx-4">
 
 
 
