@@ -389,9 +389,9 @@
         <div class="col-md-8" style=" padding:0px;" >
 
             <div class="card-body">
-                <h6 class="card-title fw-bold"   style=" border-bottom: 5px solid red;">
+                <p class="fw-bold"   style=" border-bottom: 5px solid red;">
                 PLTCOL DAMASO J BURGOS JR
-                </h6>
+</p>
                 <p class="card-text">
                 SDS, MPD 
                 </p>

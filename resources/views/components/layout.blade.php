@@ -28,7 +28,7 @@
 
         <footer class="card text-center">
             <img src="/images/mpdlogo.png" alt="" class="mx-auto -mb-6" style="width: 145px;">
-            <p>@ Manila Police District. All Right Reserved. </p>
+            <p>@ Manila Police District. All Right Reserved 2023. </p>
         </footer>
     </section>
 
