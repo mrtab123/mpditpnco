@@ -10,6 +10,8 @@ use App\Models\Event;
 
 Route::get('/', [HomeController::class, 'home']);
 
+Route::get('key-officers', [HomeController::class, 'keyofficers']);
+
 Route::get('full-calendar', [FullCalendarController::class, 'index'])->name('full-calendar');
 
 Route::post('action', [FullCalendarController::class, 'action'])->name('action');
