@@ -393,7 +393,7 @@
                 PLTCOL DAMASO J BURGOS JR
                 </h6>
                 <p class="card-text">
-                SDs, MPD 
+                SDS, MPD 
                 </p>
 
             </div>
