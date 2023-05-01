@@ -12,11 +12,14 @@
             >
             </div>
 
-            <div class="col-md-8" style=" padding-top:50px;" >
-
+            <div class="col-md-8" style="" >
+            <img src="/images/star.png" alt=""  style="width: 50px; margin-left: 120px;">
                 <div class="card-body">
+                
                     <h4 class="card-title"   style=" border-bottom: 5px solid red;">PBGEN ANDRE P DIZON</h4>
-                    <p class="card-text">District Director, Manila Police District </p></div>
+                    <p class="card-text">District Director, Manila Police District </p>
+                   
+                </div>
             </div>
 
         </div>
@@ -25,9 +28,9 @@
 
 
     
-        <div class="row">
+        <div class="row mx-2 my-2">
 
-            <div class="col-4 ps-4" > 
+            <div class="col-4 " > 
     
                 <div class="card higlight" sytle="">
                     <div class="row" style="">
@@ -69,7 +72,7 @@
                 </div>
             </div>
 
-            <div class="col-4 pe-4">
+            <div class="col-4">
 
                 <div class="card higlight ">
                     <div class="row" >
@@ -96,8 +99,6 @@
     
         </div>
   </div>
-
-
 
 
 
@@ -342,6 +343,62 @@
     </div>
 
 
+
+    <div class="col-3">
+
+<div class="card mt-3 higlight ">
+    <div class="row" >
+        <div class="col-md-4 " >
+        <img src="/images/D-STAFF/DMFB.png" class="img-fluid rounded"
+        >
+        </div>
+
+        <div class="col-md-8" style=" padding:0px;" >
+
+            <div class="card-body">
+                <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                PCOL JULIUS C ANOÑUEVO
+                </h5>
+                <p class="card-text">
+                FC, DMFB, MPD 
+                </p>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</div>
+
+
+
+<div class="col-3">
+
+<div class="card mt-3 higlight ">
+    <div class="row" >
+        <div class="col-md-4 " >
+        <img src="/images/command group/SDS.png" class="img-fluid rounded"
+        >
+        </div>
+
+        <div class="col-md-8" style=" padding:0px;" >
+
+            <div class="card-body">
+                <h5 class="card-title"   style=" border-bottom: 5px solid red;">
+                PLTCOL DAMASO J BURGOS JR
+                </h5>
+                <p class="card-text">
+                SDS, MPD 
+                </p>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</div>
 
 
 

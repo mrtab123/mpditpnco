@@ -30,7 +30,7 @@
 
 
     <div class="">
-  <div class="row">
+  <div class="row mx-1">
    
      <x-post-card />
      <x-post-card />
