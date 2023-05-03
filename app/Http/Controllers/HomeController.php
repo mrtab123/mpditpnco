@@ -18,7 +18,18 @@ class HomeController extends Controller
         
     }   
 
+<<<<<<< HEAD
     
+=======
+    public function keyofficers ()
+    
+    {
+              
+        return view('home.key-officers');
+        
+    }   
+
+>>>>>>> 6ba277fbd871dff7fdf6471def08f9561ceeff9c
     public function store(Request $request)
     {  
 

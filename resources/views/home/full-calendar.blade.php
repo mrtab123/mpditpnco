@@ -12,6 +12,7 @@
     <x-layout>
 
 
+<<<<<<< HEAD
 <div class="">
 
 <div class="row">
@@ -19,6 +20,15 @@
         <div class="panel panel-default " style="padding: 10px;  margin-top: 2px; margin-left: 120px;">
             <div class="panel-heading text-center bg-primary" style="color: white; margin-top:18px; padding: 10px;">
                 <h1>Manila Police District Conference Schedule</h1>
+=======
+<div class="container">
+
+<div class="row">
+    <div class="col-md-11">
+        <div class="panel panel-default " style="padding: 8px;  margin-top: 2px; margin-left: 120px;">
+            <div class="panel-heading text-center bg-primary" style="color: white; margin-top:5px; padding: 10px;">
+                <h2 style="border-bottom: 5px solid red;"><strong>Manila Police District Conference Schedule</strong></h2>
+>>>>>>> 6ba277fbd871dff7fdf6471def08f9561ceeff9c
             </div>
 
             <div class="panel-body">
