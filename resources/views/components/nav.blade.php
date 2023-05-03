@@ -123,11 +123,7 @@ transform: translateX(-50%);
         </li>
      
         <li class="nav-item ms-auto center">
-<<<<<<< HEAD
-          <a class="nav-link text-white" href="/full-calendar">Key Officers</a>
-=======
           <a class="nav-link text-white" href="/key-officers">MPD Key Officers</a>
->>>>>>> 6ba277fbd871dff7fdf6471def08f9561ceeff9c
         </li>
         <!-- <li class="vr"></li> -->
         <!-- <li class="nav-item dropdown center" >

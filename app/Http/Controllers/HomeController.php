@@ -18,9 +18,7 @@ class HomeController extends Controller
         
     }   
 
-<<<<<<< HEAD
-    
-=======
+
     public function keyofficers ()
     
     {
@@ -29,11 +27,11 @@ class HomeController extends Controller
         
     }   
 
->>>>>>> 6ba277fbd871dff7fdf6471def08f9561ceeff9c
+
     public function store(Request $request)
     {  
 
-		dd($request);
+		
 		
     	if($request->ajax())
     	{
